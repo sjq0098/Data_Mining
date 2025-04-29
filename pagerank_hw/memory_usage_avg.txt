@@ -1,0 +1,13 @@
+file: pagerank_ai.py avg maximum mem: 136.97 MB
+file: pagerank_external.py avg maximum mem: 42.25 MB
+file: pagerank_normal.py avg maximum mem: 734.91 MB
+file: pagerank_ss.py avg maximum mem: 34.80 MB
+file: pagerank_stripe.py avg maximum mem: 47.19 MB
+file: pg1.py avg maximum mem: 13.99 MB
+file: pg2.py avg maximum mem: 33.35 MB
+file: pgb.py avg maximum mem: 14.04 MB
+file: pgs.py avg maximum mem: 14.96 MB
+file: pgse.py avg maximum mem: 13.85 MB
+file: pgstripe.py avg maximum mem: 25.99 MB
+file: pgstripe.py avg maximum mem: 25.35 MB
+file: pgsh.py avg maximum mem: 37.95 MB

@@ -1,0 +1,649 @@
+[2025-04-26 23:45:58] pagerank_ai.py
+Maximum: 140.04 MB
+Time: 1.62 s
+
+[2025-04-26 23:45:59] pagerank_ai.py
+Maximum: 137.12 MB
+Time: 1.28 s
+
+[2025-04-26 23:46:00] pagerank_ai.py
+Maximum: 135.55 MB
+Time: 1.28 s
+
+[2025-04-26 23:46:02] pagerank_ai.py
+Maximum: 138.36 MB
+Time: 1.30 s
+
+[2025-04-26 23:46:03] pagerank_ai.py
+Maximum: 135.89 MB
+Time: 1.27 s
+
+[2025-04-26 23:46:04] pagerank_ai.py
+Maximum: 138.48 MB
+Time: 1.30 s
+
+[2025-04-26 23:46:05] pagerank_ai.py
+Maximum: 131.26 MB
+Time: 1.27 s
+
+[2025-04-26 23:46:07] pagerank_ai.py
+Maximum: 137.31 MB
+Time: 1.28 s
+
+[2025-04-26 23:46:08] pagerank_ai.py
+Maximum: 136.18 MB
+Time: 1.30 s
+
+[2025-04-26 23:46:09] pagerank_ai.py
+Maximum: 139.55 MB
+Time: 1.30 s
+
+[2025-04-26 23:46:48] pagerank_external.py
+Maximum: 42.29 MB
+Time: 13.50 s
+
+[2025-04-26 23:47:02] pagerank_external.py
+Maximum: 42.29 MB
+Time: 14.13 s
+
+[2025-04-26 23:47:17] pagerank_external.py
+Maximum: 42.17 MB
+Time: 15.12 s
+
+[2025-04-26 23:47:32] pagerank_external.py
+Maximum: 42.27 MB
+Time: 14.87 s
+
+[2025-04-26 23:47:47] pagerank_external.py
+Maximum: 42.25 MB
+Time: 15.22 s
+
+[2025-04-26 23:48:02] pagerank_external.py
+Maximum: 42.18 MB
+Time: 14.98 s
+
+[2025-04-26 23:48:17] pagerank_external.py
+Maximum: 42.38 MB
+Time: 14.95 s
+
+[2025-04-26 23:48:32] pagerank_external.py
+Maximum: 42.46 MB
+Time: 14.90 s
+
+[2025-04-26 23:48:47] pagerank_external.py
+Maximum: 42.04 MB
+Time: 15.07 s
+
+[2025-04-26 23:49:02] pagerank_external.py
+Maximum: 42.17 MB
+Time: 14.73 s
+
+[2025-04-26 23:49:30] pagerank_normal.py
+Maximum: 735.21 MB
+Time: 0.85 s
+
+[2025-04-26 23:49:31] pagerank_normal.py
+Maximum: 735.28 MB
+Time: 0.75 s
+
+[2025-04-26 23:49:32] pagerank_normal.py
+Maximum: 735.10 MB
+Time: 0.76 s
+
+[2025-04-26 23:49:33] pagerank_normal.py
+Maximum: 735.20 MB
+Time: 0.89 s
+
+[2025-04-26 23:49:33] pagerank_normal.py
+Maximum: 735.09 MB
+Time: 0.85 s
+
+[2025-04-26 23:49:34] pagerank_normal.py
+Maximum: 735.25 MB
+Time: 0.77 s
+
+[2025-04-26 23:49:35] pagerank_normal.py
+Maximum: 735.13 MB
+Time: 0.76 s
+
+[2025-04-26 23:49:36] pagerank_normal.py
+Maximum: 735.04 MB
+Time: 0.85 s
+
+[2025-04-26 23:49:37] pagerank_normal.py
+Maximum: 735.21 MB
+Time: 0.88 s
+
+[2025-04-26 23:49:37] pagerank_normal.py
+Maximum: 732.60 MB
+Time: 0.76 s
+
+[2025-04-26 23:51:08] pagerank_ss.py
+Maximum: 35.04 MB
+Time: 23.94 s
+
+[2025-04-26 23:51:33] pagerank_ss.py
+Maximum: 34.67 MB
+Time: 24.53 s
+
+[2025-04-26 23:51:56] pagerank_ss.py
+Maximum: 34.63 MB
+Time: 23.60 s
+
+[2025-04-26 23:52:20] pagerank_ss.py
+Maximum: 34.65 MB
+Time: 23.87 s
+
+[2025-04-26 23:52:44] pagerank_ss.py
+Maximum: 34.85 MB
+Time: 24.07 s
+
+[2025-04-26 23:53:07] pagerank_ss.py
+Maximum: 34.67 MB
+Time: 23.36 s
+
+[2025-04-26 23:53:31] pagerank_ss.py
+Maximum: 34.88 MB
+Time: 23.50 s
+
+[2025-04-26 23:53:54] pagerank_ss.py
+Maximum: 34.83 MB
+Time: 23.47 s
+
+[2025-04-26 23:54:18] pagerank_ss.py
+Maximum: 35.07 MB
+Time: 23.47 s
+
+[2025-04-26 23:54:41] pagerank_ss.py
+Maximum: 34.68 MB
+Time: 23.60 s
+
+[2025-04-26 23:55:49] pagerank_stripe.py
+Maximum: 46.51 MB
+Time: 1.38 s
+
+[2025-04-26 23:55:50] pagerank_stripe.py
+Maximum: 45.62 MB
+Time: 1.38 s
+
+[2025-04-26 23:55:52] pagerank_stripe.py
+Maximum: 47.36 MB
+Time: 1.38 s
+
+[2025-04-26 23:55:53] pagerank_stripe.py
+Maximum: 47.50 MB
+Time: 1.28 s
+
+[2025-04-26 23:55:54] pagerank_stripe.py
+Maximum: 47.52 MB
+Time: 1.27 s
+
+[2025-04-26 23:55:55] pagerank_stripe.py
+Maximum: 47.38 MB
+Time: 1.28 s
+
+[2025-04-26 23:55:57] pagerank_stripe.py
+Maximum: 47.46 MB
+Time: 1.28 s
+
+[2025-04-26 23:55:58] pagerank_stripe.py
+Maximum: 47.59 MB
+Time: 1.28 s
+
+[2025-04-26 23:55:59] pagerank_stripe.py
+Maximum: 47.65 MB
+Time: 1.30 s
+
+[2025-04-26 23:56:01] pagerank_stripe.py
+Maximum: 47.36 MB
+Time: 1.29 s
+
+[2025-04-26 23:56:25] pg1.py
+Maximum: 13.96 MB
+Time: 1.25 s
+
+[2025-04-26 23:56:27] pg1.py
+Maximum: 14.04 MB
+Time: 1.30 s
+
+[2025-04-26 23:56:28] pg1.py
+Maximum: 13.91 MB
+Time: 1.20 s
+
+[2025-04-26 23:56:29] pg1.py
+Maximum: 14.02 MB
+Time: 1.28 s
+
+[2025-04-26 23:56:30] pg1.py
+Maximum: 13.96 MB
+Time: 1.30 s
+
+[2025-04-26 23:56:32] pg1.py
+Maximum: 13.95 MB
+Time: 1.25 s
+
+[2025-04-26 23:56:33] pg1.py
+Maximum: 13.93 MB
+Time: 1.20 s
+
+[2025-04-26 23:56:34] pg1.py
+Maximum: 13.91 MB
+Time: 1.28 s
+
+[2025-04-26 23:56:35] pg1.py
+Maximum: 14.22 MB
+Time: 1.28 s
+
+[2025-04-26 23:56:37] pg1.py
+Maximum: 14.05 MB
+Time: 1.32 s
+
+[2025-04-26 23:57:33] pg2.py
+Maximum: 33.16 MB
+Time: 0.77 s
+
+[2025-04-26 23:57:34] pg2.py
+Maximum: 33.59 MB
+Time: 0.72 s
+
+[2025-04-26 23:57:34] pg2.py
+Maximum: 33.24 MB
+Time: 0.65 s
+
+[2025-04-26 23:57:35] pg2.py
+Maximum: 33.06 MB
+Time: 0.73 s
+
+[2025-04-26 23:57:36] pg2.py
+Maximum: 33.59 MB
+Time: 0.73 s
+
+[2025-04-26 23:57:36] pg2.py
+Maximum: 33.08 MB
+Time: 0.74 s
+
+[2025-04-26 23:57:37] pg2.py
+Maximum: 33.41 MB
+Time: 0.74 s
+
+[2025-04-26 23:57:38] pg2.py
+Maximum: 33.21 MB
+Time: 0.75 s
+
+[2025-04-26 23:57:39] pg2.py
+Maximum: 33.64 MB
+Time: 0.74 s
+
+[2025-04-26 23:57:39] pg2.py
+Maximum: 33.54 MB
+Time: 0.74 s
+
+[2025-04-26 23:57:58] pgb.py
+Maximum: 13.94 MB
+Time: 5.95 s
+
+[2025-04-26 23:58:04] pgb.py
+Maximum: 14.01 MB
+Time: 6.02 s
+
+[2025-04-26 23:58:10] pgb.py
+Maximum: 13.94 MB
+Time: 6.03 s
+
+[2025-04-26 23:58:16] pgb.py
+Maximum: 14.52 MB
+Time: 6.02 s
+
+[2025-04-26 23:58:22] pgb.py
+Maximum: 14.05 MB
+Time: 6.20 s
+
+[2025-04-26 23:58:28] pgb.py
+Maximum: 13.91 MB
+Time: 6.07 s
+
+[2025-04-26 23:58:34] pgb.py
+Maximum: 14.05 MB
+Time: 5.96 s
+
+[2025-04-26 23:58:41] pgb.py
+Maximum: 13.98 MB
+Time: 6.19 s
+
+[2025-04-26 23:58:47] pgb.py
+Maximum: 13.96 MB
+Time: 6.08 s
+
+[2025-04-26 23:58:53] pgb.py
+Maximum: 14.09 MB
+Time: 6.22 s
+
+[2025-04-26 23:59:56] pgs.py
+Maximum: 15.09 MB
+Time: 1.18 s
+
+[2025-04-26 23:59:57] pgs.py
+Maximum: 14.96 MB
+Time: 1.15 s
+
+[2025-04-26 23:59:59] pgs.py
+Maximum: 15.05 MB
+Time: 1.18 s
+
+[2025-04-27 00:00:00] pgs.py
+Maximum: 14.84 MB
+Time: 1.18 s
+
+[2025-04-27 00:00:01] pgs.py
+Maximum: 14.99 MB
+Time: 1.17 s
+
+[2025-04-27 00:00:02] pgs.py
+Maximum: 14.98 MB
+Time: 1.16 s
+
+[2025-04-27 00:00:03] pgs.py
+Maximum: 14.79 MB
+Time: 1.16 s
+
+[2025-04-27 00:00:04] pgs.py
+Maximum: 14.83 MB
+Time: 1.17 s
+
+[2025-04-27 00:00:06] pgs.py
+Maximum: 15.21 MB
+Time: 1.17 s
+
+[2025-04-27 00:00:07] pgs.py
+Maximum: 14.89 MB
+Time: 1.20 s
+
+[2025-04-27 00:00:19] pgse.py
+Maximum: 13.82 MB
+Time: 7.02 s
+
+[2025-04-27 00:00:26] pgse.py
+Maximum: 13.85 MB
+Time: 7.00 s
+
+[2025-04-27 00:00:33] pgse.py
+Maximum: 13.81 MB
+Time: 6.92 s
+
+[2025-04-27 00:00:40] pgse.py
+Maximum: 13.86 MB
+Time: 7.00 s
+
+[2025-04-27 00:00:46] pgse.py
+Maximum: 13.89 MB
+Time: 6.76 s
+
+[2025-04-27 00:00:53] pgse.py
+Maximum: 13.86 MB
+Time: 6.85 s
+
+[2025-04-27 00:01:00] pgse.py
+Maximum: 13.84 MB
+Time: 6.86 s
+
+[2025-04-27 00:01:07] pgse.py
+Maximum: 13.92 MB
+Time: 6.90 s
+
+[2025-04-27 00:01:14] pgse.py
+Maximum: 13.84 MB
+Time: 6.81 s
+
+[2025-04-27 00:01:21] pgse.py
+Maximum: 13.84 MB
+Time: 6.88 s
+
+[2025-04-29 09:08:13] pgstripe.py
+Maximum: 26.04 MB
+Time: 2.40 s
+
+[2025-04-29 09:08:15] pgstripe.py
+Maximum: 25.93 MB
+Time: 2.33 s
+
+[2025-04-29 09:08:17] pgstripe.py
+Maximum: 25.98 MB
+Time: 2.33 s
+
+[2025-04-29 09:08:20] pgstripe.py
+Maximum: 25.96 MB
+Time: 2.30 s
+
+[2025-04-29 09:08:22] pgstripe.py
+Maximum: 26.07 MB
+Time: 2.45 s
+
+[2025-04-29 09:08:24] pgstripe.py
+Maximum: 25.93 MB
+Time: 2.09 s
+
+[2025-04-29 09:08:27] pgstripe.py
+Maximum: 25.97 MB
+Time: 2.32 s
+
+[2025-04-29 09:08:29] pgstripe.py
+Maximum: 25.94 MB
+Time: 2.44 s
+
+[2025-04-29 09:08:32] pgstripe.py
+Maximum: 26.06 MB
+Time: 2.46 s
+
+[2025-04-29 09:08:34] pgstripe.py
+Maximum: 25.99 MB
+Time: 2.36 s
+
+[2025-04-29 09:20:04] pgstripe.py
+Maximum: 25.26 MB
+Time: 4.75 s
+
+[2025-04-29 09:20:08] pgstripe.py
+Maximum: 25.61 MB
+Time: 4.60 s
+
+[2025-04-29 09:20:13] pgstripe.py
+Maximum: 25.17 MB
+Time: 4.62 s
+
+[2025-04-29 09:20:18] pgstripe.py
+Maximum: 25.57 MB
+Time: 4.70 s
+
+[2025-04-29 09:20:22] pgstripe.py
+Maximum: 24.97 MB
+Time: 4.71 s
+
+[2025-04-29 09:20:27] pgstripe.py
+Maximum: 25.34 MB
+Time: 4.90 s
+
+[2025-04-29 09:20:32] pgstripe.py
+Maximum: 25.23 MB
+Time: 5.17 s
+
+[2025-04-29 09:20:41] pgstripe.py
+Maximum: 25.48 MB
+Time: 8.52 s
+
+[2025-04-29 09:20:49] pgstripe.py
+Maximum: 25.57 MB
+Time: 8.23 s
+
+[2025-04-29 09:20:58] pgstripe.py
+Maximum: 25.24 MB
+Time: 8.81 s
+
+[2025-04-29 09:22:41] pgsh.py
+Maximum: 38.50 MB
+Time: 3.40 s
+
+[2025-04-29 09:22:44] pgsh.py
+Maximum: 38.10 MB
+Time: 3.40 s
+
+[2025-04-29 09:22:48] pgsh.py
+Maximum: 37.82 MB
+Time: 3.55 s
+
+[2025-04-29 09:22:50] pgsh.py
+Maximum: 37.61 MB
+Time: 2.19 s
+
+[2025-04-29 09:22:53] pgsh.py
+Maximum: 37.90 MB
+Time: 3.49 s
+
+[2025-04-29 09:22:57] pgsh.py
+Maximum: 37.85 MB
+Time: 3.35 s
+
+[2025-04-29 09:23:00] pgsh.py
+Maximum: 38.02 MB
+Time: 3.62 s
+
+[2025-04-29 09:23:04] pgsh.py
+Maximum: 37.85 MB
+Time: 3.37 s
+
+[2025-04-29 09:23:07] pgsh.py
+Maximum: 37.90 MB
+Time: 3.25 s
+
+[2025-04-29 09:23:11] pgsh.py
+Maximum: 37.98 MB
+Time: 3.64 s
+
+[2025-04-29 09:33:30] pgse.exe
+Maximum: 6.43 MB
+Time: 15.26 秒
+
+[2025-04-29 09:33:43] pgse.exe
+Maximum: 6.07 MB
+Time: 13.10 秒
+
+[2025-04-29 09:34:12] pgse.exe
+Maximum: 5.93 MB
+Time: 28.95 秒
+
+[2025-04-29 09:34:24] pgse.exe
+Maximum: 5.95 MB
+Time: 12.39 秒
+
+[2025-04-29 09:34:54] pgse.exe
+Maximum: 6.05 MB
+Time: 29.42 秒
+
+[2025-04-29 09:35:22] pgse.exe
+Maximum: 5.98 MB
+Time: 28.66 秒
+
+[2025-04-29 09:35:54] pgse.exe
+Maximum: 6.05 MB
+Time: 31.41 秒
+
+[2025-04-29 09:36:08] pgse.exe
+Maximum: 6.06 MB
+Time: 13.97 秒
+
+[2025-04-29 09:36:18] pgse.exe
+Maximum: 6.05 MB
+Time: 10.33 秒
+
+[2025-04-29 09:36:47] pgse.exe
+Maximum: 6.06 MB
+Time: 29.26 秒
+
+[2025-04-29 09:36:47] pgse.cpp - avg (10 epoches)
+avg mm used: 6.06 MB
+
+[2025-04-29 09:52:22] pgse_fixed.exe
+Maximum: 6.07 MB
+Time: 5.09 秒
+
+[2025-04-29 09:52:28] pgse_fixed.exe
+Maximum: 5.69 MB
+Time: 5.74 秒
+
+[2025-04-29 09:52:32] pgse_fixed.exe
+Maximum: 5.68 MB
+Time: 4.36 秒
+
+[2025-04-29 09:52:37] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 4.99 秒
+
+[2025-04-29 09:52:43] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 5.24 秒
+
+[2025-04-29 09:52:47] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 4.87 秒
+
+[2025-04-29 09:52:52] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 4.25 秒
+
+[2025-04-29 09:52:57] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 5.30 秒
+
+[2025-04-29 09:53:02] pgse_fixed.exe
+Maximum: 5.72 MB
+Time: 4.64 秒
+
+[2025-04-29 09:53:07] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 5.04 秒
+
+[2025-04-29 09:53:07] pgse_fixed.cpp - avg (10 epoches)
+avg mm used: 5.74 MB
+
+[2025-04-29 18:52:32] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.24 秒
+
+[2025-04-29 18:52:35] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.10 秒
+
+[2025-04-29 18:52:38] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.11 秒
+
+[2025-04-29 18:52:41] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.09 秒
+
+[2025-04-29 18:52:44] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.03 秒
+
+[2025-04-29 18:52:47] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.09 秒
+
+[2025-04-29 18:52:50] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.13 秒
+
+[2025-04-29 18:52:53] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.21 秒
+
+[2025-04-29 18:52:56] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.08 秒
+
+[2025-04-29 18:53:00] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.18 秒
+
+[2025-04-29 18:53:00] pgse_fixed.cpp - avg (10 epoches)
+avg mm used: 5.70 MB
+
