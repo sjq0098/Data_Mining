@@ -647,3 +647,175 @@ Time: 3.18 秒
 [2025-04-29 18:53:00] pgse_fixed.cpp - avg (10 epoches)
 avg mm used: 5.70 MB
 
+[2025-04-30 00:52:35] pgse.exe
+Maximum: 6.07 MB
+Time: 6.80 秒
+
+[2025-04-30 00:52:41] pgse.exe
+Maximum: 6.08 MB
+Time: 6.67 秒
+
+[2025-04-30 00:52:48] pgse.exe
+Maximum: 6.07 MB
+Time: 6.56 秒
+
+[2025-04-30 00:52:54] pgse.exe
+Maximum: 6.07 MB
+Time: 6.66 秒
+
+[2025-04-30 00:53:01] pgse.exe
+Maximum: 6.06 MB
+Time: 6.36 秒
+
+[2025-04-30 00:53:07] pgse.exe
+Maximum: 6.07 MB
+Time: 6.34 秒
+
+[2025-04-30 00:53:13] pgse.exe
+Maximum: 6.07 MB
+Time: 6.37 秒
+
+[2025-04-30 00:53:20] pgse.exe
+Maximum: 6.07 MB
+Time: 6.39 秒
+
+[2025-04-30 00:53:26] pgse.exe
+Maximum: 6.07 MB
+Time: 6.48 秒
+
+[2025-04-30 00:53:33] pgse.exe
+Maximum: 6.06 MB
+Time: 6.28 秒
+
+[2025-04-30 00:53:33] pgse.cpp - avg (10 epoches)
+avg mm used: 6.07 MB
+
+[2025-04-30 00:54:41] pgse.exe
+Maximum: 6.07 MB
+Time: 6.49 秒
+
+[2025-04-30 00:54:48] pgse.exe
+Maximum: 6.07 MB
+Time: 6.37 秒
+
+[2025-04-30 00:54:54] pgse.exe
+Maximum: 6.06 MB
+Time: 6.37 秒
+
+[2025-04-30 00:55:00] pgse.exe
+Maximum: 6.08 MB
+Time: 6.43 秒
+
+[2025-04-30 00:55:07] pgse.exe
+Maximum: 6.07 MB
+Time: 6.30 秒
+
+[2025-04-30 00:55:13] pgse.exe
+Maximum: 6.07 MB
+Time: 6.52 秒
+
+[2025-04-30 00:55:20] pgse.exe
+Maximum: 6.07 MB
+Time: 6.43 秒
+
+[2025-04-30 00:55:26] pgse.exe
+Maximum: 6.07 MB
+Time: 6.57 秒
+
+[2025-04-30 00:55:33] pgse.exe
+Maximum: 6.08 MB
+Time: 6.47 秒
+
+[2025-04-30 00:55:39] pgse.exe
+Maximum: 6.08 MB
+Time: 6.35 秒
+
+[2025-04-30 00:55:39] pgse.cpp - avg (10 epoches)
+avg mm used: 6.07 MB
+
+[2025-04-30 00:57:12] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.11 秒
+
+[2025-04-30 00:57:15] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.10 秒
+
+[2025-04-30 00:57:18] pgse_fixed.exe
+Maximum: 5.72 MB
+Time: 3.02 秒
+
+[2025-04-30 00:57:21] pgse_fixed.exe
+Maximum: 5.73 MB
+Time: 3.10 秒
+
+[2025-04-30 00:57:24] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.00 秒
+
+[2025-04-30 00:57:27] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.02 秒
+
+[2025-04-30 00:57:30] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.04 秒
+
+[2025-04-30 00:57:33] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 2.98 秒
+
+[2025-04-30 00:57:36] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.11 秒
+
+[2025-04-30 00:57:39] pgse_fixed.exe
+Maximum: 5.72 MB
+Time: 3.05 秒
+
+[2025-04-30 00:57:39] pgse_fixed.cpp - avg (10 epoches)
+avg mm used: 5.71 MB
+
+[2025-04-30 01:00:01] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.03 秒
+
+[2025-04-30 01:00:04] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.06 秒
+
+[2025-04-30 01:00:07] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.05 秒
+
+[2025-04-30 01:00:10] pgse_fixed.exe
+Maximum: 5.75 MB
+Time: 3.10 秒
+
+[2025-04-30 01:00:13] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.10 秒
+
+[2025-04-30 01:00:16] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.00 秒
+
+[2025-04-30 01:00:19] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.02 秒
+
+[2025-04-30 01:00:22] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.00 秒
+
+[2025-04-30 01:00:26] pgse_fixed.exe
+Maximum: 5.70 MB
+Time: 3.07 秒
+
+[2025-04-30 01:00:29] pgse_fixed.exe
+Maximum: 5.71 MB
+Time: 3.01 秒
+
+[2025-04-30 01:00:29] pgse_fixed.cpp - avg (10 epoches)
+avg mm used: 5.71 MB
+

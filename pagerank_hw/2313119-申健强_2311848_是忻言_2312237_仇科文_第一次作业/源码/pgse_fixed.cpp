@@ -25,7 +25,7 @@ const int    max_iter   = 100;      // 最大迭代次数
 const int    block_size = 1000;     // 每个条带大小
 const string data_file = "Data.txt";
 
-// 安全删除文件的辅助函数，带有重试逻辑
+// 安全删除文件
 bool safe_remove_file(const string& filename, int max_retries = 3) {
     for (int i = 0; i < max_retries; ++i) {
         try {
@@ -43,7 +43,7 @@ bool safe_remove_file(const string& filename, int max_retries = 3) {
     return false;
 }
 
-// 安全重命名文件的辅助函数，带有重试逻辑
+// 安全重命名文件
 bool safe_rename_file(const string& old_name, const string& new_name, int max_retries = 3) {
     for (int i = 0; i < max_retries; ++i) {
         try {
@@ -62,7 +62,7 @@ bool safe_rename_file(const string& old_name, const string& new_name, int max_re
     return false;
 }
 
-// —— 第1步：读取边文件，统计 outdeg 并分条带 —— 
+// 读取边文件，统计 outdeg 并分条带 
 void create_edge_stripes(int N, int num_stripes) {
     // 创建临时目录用于保存条带文件
     string stripe_dir = "stripe_files";
@@ -88,7 +88,7 @@ void create_edge_stripes(int N, int num_stripes) {
     for(auto &ofs : stripe_fs) ofs.close();
 }
 
-// —— 第2步：初始化 PageRank 向量，按条带写磁盘 —— 
+// 初始化 PageRank 向量，按条带写磁盘 —— 
 void write_initial_r(int N, int num_stripes) {
     // 创建临时目录用于保存R向量文件
     string r_dir = "r_files";
@@ -106,7 +106,7 @@ void write_initial_r(int N, int num_stripes) {
     }
 }
 
-// —— 第3步：外存条带 PageRank 迭代 —— 
+// 外存条带 PageRank 迭代 —— 
 void external_stripe_pagerank(int N, int num_stripes,
                               const unordered_map<int,int> &outdeg) 
 {
@@ -240,7 +240,7 @@ void external_stripe_pagerank(int N, int num_stripes,
     }
 }
 
-// —— 第4步：k 路归并输出 Top-K —— 
+// k 路归并输出 Top-K —— 
 void merge_top100(int N, int num_stripes, int K=100) {
     string r_dir = "r_files";
     string result_dir = "results";
@@ -282,7 +282,7 @@ void merge_top100(int N, int num_stripes, int K=100) {
         sorted_files.push_back(tmp);
     }
 
-    // 4.2 k 路归并
+    // k 路归并
     struct Item { double neg_score; int sid, node; };
     auto cmp = [](Item const &a, Item const &b){
         return a.neg_score > b.neg_score;
@@ -356,7 +356,7 @@ int main(){
     external_stripe_pagerank(N, num_stripes, outdeg);
     merge_top100(N, num_stripes, 100);
 
-    cout << "Done. Results in results/res_stripe_ext.txt\n";
+    cout << "Done. Results in results/Res.txt\n";
     return 0;
 }
  

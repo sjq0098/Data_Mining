@@ -1,0 +1,2 @@
+g++ -static pgse_fixed.cpp -o pgse_fixed_static -std=c++17
+# 该文件为示例编译参数，只需要类似上面的一行即可。

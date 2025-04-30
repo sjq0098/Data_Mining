@@ -57,6 +57,9 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
+    "*.sqlbook": "sql",
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
     "array": "cpp",
     "atomic": "cpp",
     "bit": "cpp",
@@ -111,6 +114,11 @@
     "stop_token": "cpp",
     "streambuf": "cpp",
     "thread": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "condition_variable": "cpp",
+    "cstring": "cpp",
+    "list": "cpp",
+    "set": "cpp",
+    "mutex": "cpp"
   }
 }

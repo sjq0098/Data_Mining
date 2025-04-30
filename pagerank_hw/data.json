@@ -1,0 +1,79 @@
+[
+    {
+        "filename": "pagerank_normal.py",
+        "average_memory_usage_MB": 734.91,
+        "average_runtime_s": 0.81,
+        "optimization_direction": "Baseline Implementation",
+        "optimization_direction_cn": "基准实现"
+    },
+    {
+        "filename": "pagerank_ai.py",
+        "average_memory_usage_MB": 136.97,
+        "average_runtime_s": 1.30,
+        "optimization_direction": "Using NetworkX",
+        "optimization_direction_cn": "使用NetworkX库"
+    },
+    {
+        "filename": "pagerank_stripe.py",
+        "average_memory_usage_MB": 47.19,
+        "average_runtime_s": 1.31,
+        "optimization_direction": "Stripe Matrix Block",
+        "optimization_direction_cn": "条带矩阵分块"
+    },
+    {
+        "filename": "pagerank_external.py",
+        "average_memory_usage_MB": 42.25,
+        "average_runtime_s": 14.64,
+        "optimization_direction": "External Storage",
+        "optimization_direction_cn": "外部存储"
+    },
+    {
+        "filename": "pagerank_ss.py",
+        "average_memory_usage_MB": 34.80,
+        "average_runtime_s": 23.84,
+        "optimization_direction": "Sparse Storage + Stream Processing",
+        "optimization_direction_cn": "稀疏存储+流处理"
+    },
+    {
+        "filename": "pg2.py",
+        "average_memory_usage_MB": 33.35,
+        "average_runtime_s": 0.73,
+        "optimization_direction": "Improved Stripe Matrix",
+        "optimization_direction_cn": "改进条带矩阵"
+    },
+    {
+        "filename": "pgs.py",
+        "average_memory_usage_MB": 14.96,
+        "average_runtime_s": 1.17,
+        "optimization_direction": "Final Optimized Version",
+        "optimization_direction_cn": "最终优化版本"
+    },
+    {
+        "filename": "pgb.py",
+        "average_memory_usage_MB": 14.04,
+        "average_runtime_s": 6.07,
+        "optimization_direction": "Block Matrix Optimization",
+        "optimization_direction_cn": "块矩阵优化"
+    },
+    {
+        "filename": "pg1.py",
+        "average_memory_usage_MB": 13.99,
+        "average_runtime_s": 1.27,
+        "optimization_direction": "Simplified Stream Processing",
+        "optimization_direction_cn": "简化流处理"
+    },
+    {
+        "filename": "pgse.py",
+        "average_memory_usage_MB": 13.85,
+        "average_runtime_s": 6.90,
+        "optimization_direction": "Extended External Storage Processing",
+        "optimization_direction_cn": "扩展外部存储处理"
+    },
+    {
+        "filename": "pgse.cpp",
+        "average_memory_usage_MB": 5.70,
+        "average_runtime_s": 3.18,
+        "optimization_direction": "C++ Implementation",
+        "optimization_direction_cn": "C++ 实现"
+    }
+]
